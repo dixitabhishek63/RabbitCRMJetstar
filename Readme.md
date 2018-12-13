@@ -1,0 +1,5 @@
+--RabbitMQ tool to manage charting and allocation of time slots.
+--Node JS non-blocking asynchronous API call
+--MongoDB Mangoose File storage
+--Graph QL non-structured database for UI Content Delivery
+--Owin Middleware authentication integrated with Jetstar LDAP (Microsoft Directory Services)
